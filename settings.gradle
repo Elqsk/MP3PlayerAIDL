@@ -1,0 +1,3 @@
+include ':mp3playeraidlsecondmodule'
+include ':app'
+rootProject.name = "MP3 Player AIDL"
